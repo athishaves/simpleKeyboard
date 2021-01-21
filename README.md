@@ -4,6 +4,4 @@ Description 404
 
 Screenshots
 
-![Qwerty Keyboard](screenshots/qwerty.jpg?raw=true "Qwerty Keyboard")
-![Numbers](screenshots/numbers.jpg?raw=true "Numbers")
-![Characters](screenshots/characters.jpg?raw=true "Characters")
+<img src="screenshots/qwerty.jpg" width="216" height="468" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/numbers.jpg" width="216" height="468" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/characters.jpg" width="216" height="468" />
