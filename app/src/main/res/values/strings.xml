@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Keyboard</string>
+<!--    Buttons-->
+    <string name="enable_keyboard">Enable Keyboard</string>
+    <string name="set_input_method">Set Input Method</string>
+<!--    Test keyboard-->
+    <string name="test_keyboard">\nTest the keyboard here</string>
+    <string name="text_input">Text input</string>
+    <string name="number_input">Number input</string>
+    <string name="password_input">Password input</string>
+    <string name="note">\n<b>NOTE</b> : This app <b>DOES NOT</b> collect any of your data in any possible way</string>
+    <string name="instr">To start using the keyboard\n1. Enable Simple Keyboard\n2. Change the input method to Simple Keyboard</string>
+    <string name="github">You can find the source code for the app <a href="https://github.com/athishaves/simpleKeyboard">here</a></string>
+</resources>
